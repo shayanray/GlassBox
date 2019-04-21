@@ -42,7 +42,7 @@ Changes to original score must be justified by the judges, subject to appeal cou
 ## Acheivements:
 
 <ul>
-<li> We won the 'Artificial Intelligence' category in this MIT policy hackathon in April 2019 </li>
+<li> We won the 'Artificial Intelligence' category prize in this MIT policy hackathon in April 2019 </li>
 <li> We were one of the Top 5 teams to compete for the 1st prize! </li>
 </ul>
 
