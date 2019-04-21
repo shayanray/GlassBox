@@ -38,6 +38,14 @@ Changes to original score must be justified by the judges, subject to appeal cou
 </ul>
 
 
+
+## Acheivements:
+
+<ul>
+<li> We won the 'Artificial Intelligence' category in this MIT policy hackathon in April 2019 </li>
+<li> We were one of the Top 5 teams to compete for the 1st prize! </li>
+</ul>
+
 ## What's next for Glass-Box:
 <ul>
 	<li>Training Glass-Box to surpass Compas accuracy</li>
